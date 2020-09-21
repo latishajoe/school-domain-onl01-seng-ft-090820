@@ -16,7 +16,7 @@
     end
 
     def grade(grade)
-      slef.roster[grade]
+      self.roster[grade]
     end
 
     def sort
